@@ -1,0 +1,17 @@
+export const button2 = {
+  backgroundColor: "#006400",
+  color: "#f0f",
+  padding: 20,
+  borderRadius: 5,
+  fontSize: 13,
+  minWidth: 50,
+  maxWidth: 100,
+  height: 100,
+  textAlign: "center",
+  justifyContent: "center",
+  flexDirection: "column",
+  flexWrap: "wrap",
+  margin: 10,
+  borderColor: "#f0f",
+  borderWidth: 2,
+};
